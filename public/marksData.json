@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Sajjad Hossain",
+    "group": "Science",
+    "marks": {
+      "physics": 85,
+      "chemistry": 82,
+      "biology": 90,
+      "higherMath": 88,
+      "english": 78
+    },
+    "totalMarks": 423,
+    "average": 84.6,
+    "result": "Pass"
+  },
+  {
+    "id": 2,
+    "name": "Rahim Ahmed",
+    "group": "Science",
+    "marks": {
+      "physics": 78,
+      "chemistry": 75,
+      "biology": 82,
+      "higherMath": 80,
+      "english": 72
+    },
+    "totalMarks": 387,
+    "average": 77.4,
+    "result": "Pass"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "group": "Science",
+    "marks": {
+      "physics": 92,
+      "chemistry": 89,
+      "biology": 94,
+      "higherMath": 91,
+      "english": 85
+    },
+    "totalMarks": 451,
+    "average": 90.2,
+    "result": "Pass"
+  },
+  {
+    "id": 4,
+    "name": "Tanvir Hasan",
+    "group": "Science",
+    "marks": {
+      "physics": 65,
+      "chemistry": 70,
+      "biology": 74,
+      "higherMath": 68,
+      "english": 71
+    },
+    "totalMarks": 348,
+    "average": 69.6,
+    "result": "Pass"
+  },
+  {
+    "id": 5,
+    "name": "Mim Akter",
+    "group": "Science",
+    "marks": {
+      "physics": 88,
+      "chemistry": 86,
+      "biology": 91,
+      "higherMath": 84,
+      "english": 80
+    },
+    "totalMarks": 429,
+    "average": 85.8,
+    "result": "Pass"
+  },
+  {
+    "id": 6,
+    "name": "Fahim Islam",
+    "group": "Science",
+    "marks": {
+      "physics": 55,
+      "chemistry": 62,
+      "biology": 68,
+      "higherMath": 58,
+      "english": 65
+    },
+    "totalMarks": 308,
+    "average": 61.6,
+    "result": "Pass"
+  },
+  {
+    "id": 7,
+    "name": "Sumaiya Rahman",
+    "group": "Science",
+    "marks": {
+      "physics": 81,
+      "chemistry": 84,
+      "biology": 87,
+      "higherMath": 79,
+      "english": 83
+    },
+    "totalMarks": 414,
+    "average": 82.8,
+    "result": "Pass"
+  },
+  {
+    "id": 8,
+    "name": "Rakib Hossain",
+    "group": "Science",
+    "marks": {
+      "physics": 42,
+      "chemistry": 48,
+      "biology": 55,
+      "higherMath": 38,
+      "english": 60
+    },
+    "totalMarks": 243,
+    "average": 48.6,
+    "result": "Pass"
+  },
+  {
+    "id": 9,
+    "name": "Ayesha Siddika",
+    "group": "Science",
+    "marks": {
+      "physics": 95,
+      "chemistry": 93,
+      "biology": 96,
+      "higherMath": 94,
+      "english": 89
+    },
+    "totalMarks": 467,
+    "average": 93.4,
+    "result": "Pass"
+  },
+  {
+    "id": 10,
+    "name": "Imran Kabir",
+    "group": "Science",
+    "marks": {
+      "physics": 72,
+      "chemistry": 68,
+      "biology": 75,
+      "higherMath": 70,
+      "english": 74
+    },
+    "totalMarks": 359,
+    "average": 71.8,
+    "result": "Pass"
+  }
+]

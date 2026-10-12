@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 800,
+    "duration": "month",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Gym equipment access",
+      "Locker room access",
+      "Basic workout plan",
+      "Free Wi-Fi access",
+      "Changing room access"
+    ],
+    "buttonText": "Choose Basic",
+    "path": "/basic",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 1500,
+    "duration": "month",
+    "description": "Ideal for regular workouts and building strength.",
+    "features": [
+      "All Basic features",
+      "Group fitness classes",
+      "Personalized workout plan",
+      "Cardio training",
+      "Monthly fitness assessment",
+      "Access to strength training area",
+      "Body composition tracking",
+      "Extended gym hours access"
+    ],
+    "buttonText": "Choose Standard",
+    "path": "/standard",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 2500,
+    "duration": "month",
+    "description": "Advanced fitness support for serious fitness goals.",
+    "features": [
+      "All Standard features",
+      "Personal trainer sessions",
+      "Nutrition guidance",
+      "Weekly progress tracking",
+      "Priority gym access",
+      "Customized diet plan",
+      "Recovery and stretching sessions",
+      "Unlimited group fitness classes",
+      "Two guest passes per month",
+      "Monthly body composition analysis",
+      "Priority class booking",
+      "Exclusive member discounts"
+    ],
+    "buttonText": "Choose Premium",
+    "path": "/premium",
+    "popular": false
+  }
+]
